@@ -1,0 +1,47 @@
+#head{
+    text-align: center;
+}
+
+#head2,#head3,#head4{
+    text-align: center;
+}
+
+#p1,#pe,#event{
+    width: 1000px;
+    margin:0 auto;
+}
+
+#image1,#image2,#image3,#image4{
+    height: 50%;
+    width: 50%;
+    float:left;
+}
+
+#image,#cm{
+    width: 1000px;
+    margin:0 auto;
+}
+
+#CM{
+    height:50%;
+    width:50%;
+    display:block; 
+    margin:0 auto;
+}
+
+.clear_float{
+    clear: both;
+}
+
+#p2,#part1,#part2,#part3,#part4,#part5,#part6{
+    width:1000px;
+    margin:0 auto;
+}
+
+#p7,#rlink,#comment,#h8,#h9,#h10,#h11,#h12,#h13,#p9j,#p10j,#p11j,#p12j,#p13j,#p9e,#p10e,#p11e,#p12e,#p13e{
+    text-align: center;
+}
+
+#he,#he1{
+    text-align:center;
+}
